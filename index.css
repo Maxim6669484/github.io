@@ -1,0 +1,31 @@
+{
+    border: 1px solid red;
+}
+.page{
+    background-color: black;
+    width: 80%;
+    max-width: 720px;
+    color: white;
+    margin: auto;
+}
+.header{
+    text-align: center;
+    font-size: 60px;
+}
+.main{
+    font-size: 3ch;
+    align-content: flex-start;
+}
+.line{
+    color:white;
+    size: 2px;
+}
+.button{
+    background-color: white;
+    border: none;
+    font-size: 16px;
+}
+.input_vop{
+    font-size: 25px;
+    width: 150px
+}
